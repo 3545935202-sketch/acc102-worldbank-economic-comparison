@@ -1,4 +1,5 @@
 # Comparing Economic Performance Across China, the United States, and the United Kingdom Using Python
+A Python-based comparative analysis of GDP growth, inflation, and unemployment across China, the United States, and the United Kingdom using World Bank data.
 
 ## Product Link
 - Track 2 repository: https://github.com/3545935202-sketch/acc102-worldbank-economic-comparison
