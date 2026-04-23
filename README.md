@@ -25,13 +25,13 @@ Main data file:
 - `worldbank_data.csv`
 
 ## 3. Methods
-This project uses Python for a basic but coherent analytical workflow.
+This project uses Python to build a simple but coherent analytical workflow.
 
 Main steps:
 - load the World Bank dataset using pandas
 - inspect the data structure and missing values
-- reshape the data from wide format to long format using `melt`
-- convert year and value columns into analysis-friendly format
+- reshape the dataset from wide format to long format using `melt`
+- extract the year values and convert the indicator values into numeric form
 - reorganise the data into a cleaner comparison table using `pivot_table`
 - rename variables for readability
 - calculate country-level averages for GDP growth, inflation, and unemployment
@@ -58,7 +58,6 @@ Required packages:
 - `worldbank_economic_comparison.ipynb` – main notebook
 - `worldbank_data.csv` – dataset used in the analysis
 - `requirements.txt` – required Python libraries
-- `figures/` – optional exported chart images
 
 ## 7. Limitations & Next Steps
 This project has several limitations. First, it only compares three countries, so the findings cannot represent the global economy. Second, only three macroeconomic indicators were used, so other important dimensions such as trade, public debt, and exchange rates were not included. Third, the analysis is descriptive and does not fully explain the structural or political reasons behind the observed differences.
