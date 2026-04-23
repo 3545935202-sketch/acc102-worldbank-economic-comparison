@@ -1,7 +1,7 @@
 # Comparing Economic Performance Across China, the United States, and the United Kingdom Using Python
 
 ## Product Link
-- Track 2 repository: [add your GitHub repository link here]
+- Track 2 repository: https://github.com/3545935202-sketch/acc102-worldbank-economic-comparison
 - Demo video: [add your Mediasite video link here]
 
 ## 1. Problem & User
