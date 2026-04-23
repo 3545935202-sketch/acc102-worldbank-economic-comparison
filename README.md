@@ -58,6 +58,7 @@ Required packages:
 - `worldbank_economic_comparison.ipynb` – main notebook
 - `worldbank_data.csv` – dataset used in the analysis
 - `requirements.txt` – required Python libraries
+- `figures/` – exported chart images used for presentation and documentation
 
 ## 7. Limitations & Next Steps
 This project has several limitations. First, it only compares three countries, so the findings cannot represent the global economy. Second, only three macroeconomic indicators were used, so other important dimensions such as trade, public debt, and exchange rates were not included. Third, the analysis is descriptive and does not fully explain the structural or political reasons behind the observed differences.
