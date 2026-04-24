@@ -4,7 +4,7 @@ A Python-based macroeconomic comparison project using World Bank data from 2014 
 
 ## Product Links
 - GitHub repository: https://github.com/3545935202-sketch/acc102-worldbank-economic-comparison
-- Demo video (Mediasite): [paste your final Mediasite link here]
+- Demo video (Mediasite): https://video.xjtlu.edu.cn/Mediasite/Play/a7679f9ce36d4a0ab83b05d5803681721d
 
 ## 1. Problem and Intended User
 This project examines how economic performance can be compared more meaningfully across countries using multiple indicators rather than GDP growth alone.
